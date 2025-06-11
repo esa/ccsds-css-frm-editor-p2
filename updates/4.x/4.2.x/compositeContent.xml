@@ -2,13 +2,14 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='CCSDS Functional Resource Editor p2 Composite Site 4.2.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1711639948678'/>
+    <property name='p2.timestamp' value='1749633623874'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='../../../releases/4.2.3.v20230324-1346'/>
     <child location='../../../releases/4.2.3.v20230606-1221'/>
     <child location='../../../releases/4.2.3.v20230606-1231'/>
     <child location='../../../releases/4.2.5.v20240328-1528'/>
+    <child location='../../../releases/4.2.5.v20250611-0914'/>
   </children>
 </repository>
